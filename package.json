@@ -1,0 +1,36 @@
+{
+  "name": "react-base",
+  "version": "0.1.0",
+  "description": "Reactjs Base App",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perusworld/react-base.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reactjs",
+    "base"
+  ],
+  "engines": {
+    "node": "8.9.4"
+  },
+  "author": "Saravana Perumal Shanmugam <saravanaperumal@msn.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perusworld/react-base/issues"
+  },
+  "homepage": "https://github.com/perusworld/react-base"
+}
