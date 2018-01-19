@@ -24,9 +24,6 @@
     "reactjs",
     "base"
   ],
-  "engines": {
-    "node": "8.9.4"
-  },
   "author": "Saravana Perumal Shanmugam <saravanaperumal@msn.com>",
   "license": "MIT",
   "bugs": {
